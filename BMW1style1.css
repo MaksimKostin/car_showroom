@@ -1,0 +1,16 @@
+@media only screen and (max-width: 992px) {
+    ul.hr {
+    margin: 0px;
+    padding: 40px; /* Значение полей */
+	margin-left: 10px;
+	margin-bottom: 150px;
+   }
+	ul.hr li {
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 0px;
+	margin-left: 10px;
+	color: blue;
+	font-size: 10px;
+	font-weight: bold;
+   }
+}
